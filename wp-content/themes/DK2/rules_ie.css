@@ -1,0 +1,46 @@
+#slideshow
+{
+	height: 330px !important;
+}
+.points
+{
+	position: relative !important;
+	left: 30% !important;
+}
+#points3
+{
+	position: relative !important;
+	left: 12% !important;
+}	
+#searchform
+{
+	width: 73% !important;
+	position: relative !important;
+	left: -11px !important;
+	top: 20px !important;
+}
+#searchimage
+{
+	position: relative !important;
+	left: -5px !important;
+	top: 20px !important;		
+}
+#content
+{
+	position: relative !important;
+	top: 0px !important;
+}
+#searchgroup
+{
+	float: right !important;
+}
+#sidebar
+{
+	position: relative !important;
+	top: 0px !important;
+}
+.col_footer
+{
+	width: 25% !important;
+}
+	
